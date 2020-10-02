@@ -1,0 +1,19 @@
+body {
+    padding: 45.5px;
+    line-height: 1.7;
+    width: 100%;
+}
+
+div {
+    padding: 10px;
+
+    -webkit-transform: rotate(60deg);
+    -moz-transform: rotate(60deg);
+    -ms-transform: rotate(60deg);
+    -o-transform: rotate(60deg);
+    transform: rotate(60deg);
+}
+
+body {
+    background: url(.css\img\Screenshot_3.png);
+}
